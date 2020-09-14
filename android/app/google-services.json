@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "862923532469",
+    "firebase_url": "https://sharetodo-3bcea.firebaseio.com",
+    "project_id": "sharetodo-3bcea",
+    "storage_bucket": "sharetodo-3bcea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862923532469:android:1eb39d264c8cb70301b6fc",
+        "android_client_info": {
+          "package_name": "jp.ac.hal.nagoya.nhs70060.sharetodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862923532469-9k07umk7p7dfr2477m5bbusk8tvatkvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa4ndgXS7GVBf6vOdXEn8sjfvmtK85oU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862923532469-9k07umk7p7dfr2477m5bbusk8tvatkvg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
